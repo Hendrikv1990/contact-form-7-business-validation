@@ -14,5 +14,6 @@ Especially for B2B landing pages this is very helpful
 1. automatically detect the email that is being posted
 2. automatically detect language
 3. enhance the languages support
+4. ensure that email is actually a real email address. 
 
 ### version 1.0
